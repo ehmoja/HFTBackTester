@@ -1,4 +1,4 @@
-# mm_bt backtester
+# A Lightwegith, Performant L2 Data Backtester
 
 Deterministic two-stage backtest pipeline for crypto L2 order book data (`incremental_book_L2`) exported by Tardis.dev.
 
