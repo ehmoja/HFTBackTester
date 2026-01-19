@@ -1,0 +1,15 @@
+data/
+__pycache__/
+*.py[cod]
+evlog_out/
+*.evlog
+*.idx
+*.manifest.json
+*.quarantine.jsonl
+tape.jsonl
+.DS_Store
+
+AGENTS.md
+BACKTEST_ENGINE_SPEC_V2.md
+IMPLEMENTATION_PLAN.md
+SOURCES.md
