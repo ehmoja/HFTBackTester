@@ -1,4 +1,4 @@
-# A Lightwegith, Performant L2 Data Backtester
+# A Lightweight, Performant L2 Data Backtester
 
 Deterministic two-stage backtest pipeline for crypto L2 order book data (`incremental_book_L2`) exported by Tardis.dev.
 
