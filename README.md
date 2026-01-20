@@ -132,4 +132,4 @@ pytest -q
 - Market orders only; fill model is top-of-book and rejects if size exceeds available.
 - Single-symbol/day per compiled evlog.
 
-See `BACKTEST_ENGINE_SPEC_V2.md` for the intended v2 model and full invariants.
+
